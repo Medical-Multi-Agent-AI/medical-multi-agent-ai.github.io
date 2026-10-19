@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://medical-multi-agent-ai.github.io/sitemap.xml
